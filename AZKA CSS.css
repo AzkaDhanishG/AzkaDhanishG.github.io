@@ -50,3 +50,36 @@
 	border:5px solid palevioletred;
 	background: violet;
 }
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+#kambing {
+overflow: hidden;
+margin-left: 200px;
+margin-right: 5px;
+}
+
+#kambing2 {
+overflow: hidden;
+margin-left: 200px;
+margin-right: 5px;
+}
